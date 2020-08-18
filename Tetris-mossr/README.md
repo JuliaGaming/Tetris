@@ -31,5 +31,5 @@ Your highscore will be save to the `.highscore` file.
 
 ## Gameplay
 <p align="center">
-  <img src="https://github.com/mossr/Tetris.jl/blob/master/tetris.png">
+  <img src="https://github.com/JuliaGaming/Tetris/blob/master/Tetris-mossr/img/tetris.png">
 </p>
